@@ -1,0 +1,25 @@
+
+table{
+    border-collapse: collapse;
+    height: 350px;
+}
+
+tr,th,td{
+    border: 2px solid black;
+    text-align: center;
+}
+
+.row1Data{
+    width: 120px;
+}
+.container{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sem{
+    background-color:lightgray;
+}
